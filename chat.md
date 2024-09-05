@@ -23,5 +23,5 @@ Nous encourageons le respect envers les autres joueurs du serveur afin qu'une bo
 
 ## Règle générale
 
-Les menaces qui sortent du cadre normal d'un jeu, aussi compétitif qu'il soit, sont évidement sanctionnées.
+Les menaces qui sortent du cadre normal d'un jeu, aussi compétitif soit-il, sont évidemment sanctionnées.
 
