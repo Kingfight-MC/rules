@@ -22,4 +22,4 @@ Les launchers suivants sont tolérés:
 
 &#x20;
 
-Tous les launchers s'en approchant sont évidement tolérés et tous les modes proposés par ces launchers sont par extension tolérés sur le serveur (à l'exception du XRay de LabyMod).
+Tous les launchers s'en approchant sont évidemment tolérés et tous les modes proposés par ces launchers sont par extension tolérés sur le serveur (à l'exception du XRay de LabyMod).
