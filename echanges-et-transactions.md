@@ -19,8 +19,8 @@ L'arnaque à l'HDV est bannie
 Ce paragraphe concerne l'échange d'item contre des biens extérieurs au jeu.
 
 * Les échanges de biens & services sur KingFight contre des items sur d'autres serveurs sont bannis définitivement
-* Les échanges de biens & services sur Bloodybattle contre de l'argent sont bannis définitivement
-* Les échanges de biens & services sur Bloodybattle contre des clés magiques sont autorisés.
+* Les échanges de biens & services sur KingFight contre de l'argent sont bannis définitivement
+* Les échanges de biens & services sur KingFight contre des clés magiques sont autorisés.
 
 &#x20;
 
