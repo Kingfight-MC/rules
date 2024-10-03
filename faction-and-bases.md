@@ -14,7 +14,7 @@ Les trahisons sont interdites sur notre serveur. Si vous quittez une faction, ne
 
 ## Base
 
-Il y a un maximum de 2 couches de sable (blocs soumis à la gravité)
+Il y a un maximum de **2 couches de sable** (blocs soumis à la gravité)
 
 Les couches d'eau ne sont pas autorisées pour éviter les problèmes de lag, nous nous réservons le droit d'enlever ces dernières.
 
