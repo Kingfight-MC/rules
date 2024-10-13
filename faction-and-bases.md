@@ -18,6 +18,8 @@ Il y a un maximum de **2 couches de sable** (blocs soumis à la gravité)
 
 Les couches d'eau ne sont pas autorisées pour éviter les problèmes de lag, nous nous réservons le droit d'enlever ces dernières.
 
+Il n'est pas autorisé de profiter de l'impossibilité de piller une faction déconnectée pour protéger du stuff 
+
 Défendre sa base sous double compte est strictement interdit
 
 Une faction est limitée à 2 claims d'AP
