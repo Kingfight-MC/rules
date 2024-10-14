@@ -20,10 +20,8 @@ Tous ces types de triche seront sanctionnés par un bannissement.
 
 ## Usebug
 
-L'utilisation d'un bug donnant un avantage dans le pillage d'une base est strictement interdit. Pour qu'un coffre soit pillé, il doit exister un trou entre le bord du claim et les coffres. Les points suivants sont donc bannis
+L'utilisation d'un bug donnant un avantage dans le pillage d'une base est strictement interdit. Pour qu'un coffre soit pillé, il doit exister un trou entre le bord du claim et les coffres. Tout passage de couche relatif au lancement d'une enderpearl, à une déconnexion/reconnexion où à d'autres problèmes liés au server ou à minecraft directement.
 
-* Le usebug TP: Téléporter un joueur dans une zone restreinte (suffocation) ce qui le téléporterait derrière un mur.
-* Le passage de couche: Tout passage de couche relatif au lancement d'une enderpearl, à une déconnexion/reconnexion où à d'autres problèmes liés au server ou à minecraft directement.
-* Les usebug sont tolérés aux AP
+Les usebug sont tolérés dans le cas où un combat est **engagé**: Il faut au moins 1 coup de l'un des côtés.
 
 &#x20;
