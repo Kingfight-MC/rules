@@ -11,7 +11,7 @@ Ce paragraphe concerne les échanges d'items en jeu.
 &#x20;
 
 L'arnaque sous forme d'échanges d'item, ou de commerce avec de la monnaie (je te drop un item et tu m'en drop un autre) est interdite, cependant, il faut que vous ayez une preuve pour qu'il y ait remboursement sous forme d'extrait vidéo.
-Tous les échanges concernant du hasard (plue ou face et autre) ne sont cependant aucunement protégés. Il en est de même avec les échanges en Kingz, il existe le /bourse pour transformer ses Kingz en monnaie pour ensuite faire l'échange.
+Tous les échanges concernant du hasard (pile ou face et autre) ne sont cependant aucunement protégés. Il en est de même avec les échanges en Kingz, il existe le /bourse pour transformer ses Kingz en monnaie pour ensuite faire l'échange.
 
 L'arnaque à l'HDV est bannie
 
