@@ -14,6 +14,9 @@ La modification du client Minecraft ou l'utilisation d'un bug dans le but d'êtr
 * Utilisation d'un client dit "Injected" (toutes formes de logiciel externe modifiant le client déjà lancé)
 * Il n'y a pas de limite de CPS cependant au dessus de 14 c'est à vos risques et périles, vous vous exposez à une vérification manuelle de la part de notre équipe de modération.
 
+Si vous utilisez un logiciel de triche afin de tuer plus rapidement des mobs, vous vous exposez à un avertissement.
+Lors de récidive, vous vous exposez à un bannissement du serveur.
+
 &#x20;
 
 Tous ces types de triche seront sanctionnés par un bannissement.
