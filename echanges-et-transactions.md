@@ -7,16 +7,13 @@ description: >-
 
 # 💸 Commerce & Arnaques
 
-**❌ Arnaques interdites :**
+**💰 Echanges :**
+* Le seul moyen de procéder à un échange sécurisé est de passer par le **/trade** ou le **/hdv**, toute autre forme d'échange n'est pas garantie par le server.
+
+**❌ Arnaques HDV :**
 
 * Les **arnaques à l’HDV** sont **interdites**.\
   ➤ Exemple : essayer de vendre un item renommé pour faire croire qu’il s’agit d’un vrai item = sanction + suppression de l’item concerné.
-
-**⚠️ Arnaques tolérées :**
-
-* Les échanges **item ↔️ PB (/bourse)** sont **autorisés**, mais **l’arnaque dans ce cadre-là n’est pas interdite**.\
-  ➤ Vous tradez à vos risques et périls. Le staff **n’interviendra pas** en cas de scam lié au `/bourse`.\
-  ➤ Soyez attentifs, ne faites pas confiance à n’importe qui peu importe leur rang (partenaire, youtubeur ou staff).
 
 **💸 Interdiction formelle :**
 
