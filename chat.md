@@ -1,27 +1,25 @@
 ---
-description: Règlement relatif au chat sur le serveur KingFight
+description: 📜 Règlement du Chat – KingFight
 ---
 
 # 💬 Chat
 
 Nous encourageons le respect envers les autres joueurs du serveur afin qu'une bonne ambiance y règne. Veuillez prendre en considération ce que nous considérons comme inadapté sur notre serveur ci-dessous.
 
+#### ❌ Ce qui est **strictement interdit** :
 
+Les propos suivants entraîneront des sanctions **immédiates** :
 
-### Fautes communes
+* ❌ **Toutes provocations, insultes légères ou lourdes**
+* ❌ **Racisme, antisémitisme, sexisme, homophobie ou transphobie**
+* ❌ **Pédopornographie, apologie de la pédophilie ou tout contenu sexuellement explicite impliquant des mineurs**
+* ❌ **Apologie du terrorisme, du fascisme, du nazisme ou autres idéologies extrémistes**
+* ❌ **Menaces IRL, harcèlement ciblé ou doxxing (partage d’informations personnelles)**
+* ❌ **Incitation à la haine ou à la violence réelle**
+* ❌ **Faire la promotion d'un autre serveur est totalement interdit**
 
-* Les insultes, provocations, menaces ainsi que les moqueries sont mute
-* Le flood, spam ou tout ce qui pollue le chat est mute
+⚠️ Sanctions :
 
-### Fautes graves
-
-* Le racisme, l'homophobie, le sexisme, les insultes envers les handicapés ou toutes les formes de discriminations sont mute
-* La publicité est bannie, cependant, elle est tolérée dans le cadre de la promotion de contenu sur KingFight
-* Le DOX est banni sur notre serveur ainsi que les menaces liées à cela.
-* L'incitation au suicide est bannie
-* Le DDoS et les menaces liées à cela sont bannis
-
-## Règle générale
-
-Les menaces qui sortent du cadre normal d'un jeu, aussi compétitif soit-il, sont évidemment sanctionnées.
-
+* 🛑 Aucun avertissement pour les sanctions ci-dessus : **sanction immédiate.**
+* 🌐**Banissement définitif** pour les joueurs qui pub un autre serveur.
+* 👮 L'équipe de modération se réserve le droit d'agir si le comportement nuit à l'ambiance du serveur.

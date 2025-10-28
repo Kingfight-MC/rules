@@ -2,7 +2,7 @@
 
 * [Général](README.md)
 * [💬 Chat](chat.md)
-* [💸 Echanges et transactions](echanges-et-transactions.md)
+* [💸 Commerce & Arnaques](echanges-et-transactions.md)
 * [🖥️ Modes & launchers](modes-and-launchers.md)
 * [⚠️ Triche & usebug](triche-and-usebug.md)
 * [🏰 Faction & bases](faction-and-bases.md)

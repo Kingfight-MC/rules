@@ -1,19 +1,15 @@
 ---
+description: ⚠️ Rappel général – À lire avant de jouer
 icon: earth-africa
 ---
 
 # Général
 
-L'équipe de modération du serveur se réserve le droit d'appliquer une sanction pour un fait non mentionné dans le règlement suivant, dans le cas où vos actions pourraient nuire à l'expérience de jeu des autres utilisateurs de KingFight\
+L'équipe de modération de **KingFight** se réserve le droit de **sanctionner tout comportement jugé nuisible**, même s’il n’est **pas explicitement mentionné dans ce règlement**.\
+L’objectif est de garantir une **expérience de jeu stable, saine et compétitive** pour l’ensemble des joueurs.
 
-
-Le staff se réserve le droit de disqualifier une faction suite au non-respect de ce règlement.
-
-
-Si une sanction est relative à l'IP, il est formellement interdit de revenir jouer pendant la sanction.
-
-
-Toute plainte ou réclamation (usebug, alliance en warzone, insultes/provocations/racisme en mp,...) doit être accompagnée d'un screenshot ou/et d'un extrait vidéo suffisant pour étayer vos propos, dans le cas contraire, votre réclamation peut se voir refuser.&#x20;
-
-
-
+* 🛑 Une **faction peut être disqualifiée** ou supprimée si elle ne respecte pas les règles ou abuse de mécaniques du jeu.
+* 🚫 Toute **sanction liée à une adresse IP** (ban IP) rend le retour sur le serveur **strictement interdit pendant toute la durée** de la sanction, **même avec un autre compte**.
+* 📝 Toute **plainte ou demande d’intervention** du staff doit être **accompagnée d’une preuve claire** :\
+  **screenshot** et/ou **vidéo complète**.\
+  ➤ Sans preuve suffisante, **aucune action ne sera prise**.

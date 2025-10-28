@@ -1,28 +1,31 @@
 ---
-description: Règlement relatif aux échanges
+description: >-
+  Le commerce entre joueurs est toléré dans certaines conditions, mais il est
+  encadré par des règles strictes. Toute infraction peut entraîner des sanctions
+  lourdes.
 ---
 
-# 💸 Echanges et transactions
+# 💸 Commerce & Arnaques
 
-## Échanges
+**❌ Arnaques interdites :**
 
-Ce paragraphe concerne les échanges d'items en jeu.
+* Les **arnaques à l’HDV** sont **interdites**.\
+  ➤ Exemple : essayer de vendre un item renommé pour faire croire qu’il s’agit d’un vrai item = sanction + suppression de l’item concerné.
 
-&#x20;
+**⚠️ Arnaques tolérées :**
 
-L'arnaque sous forme d'échanges d'item, ou de commerce avec de la monnaie (je te drop un item et tu m'en drop un autre) est interdite, cependant, il faut que vous ayez une preuve pour qu'il y ait remboursement sous forme d'extrait vidéo.
-Tous les échanges concernant du hasard (pile ou face et autre) ne sont cependant aucunement protégés. Il en est de même avec les échanges en Kingz, il existe le /bourse pour transformer ses Kingz en monnaie pour ensuite faire l'échange.
+* Les échanges **item ↔️ PB (/bourse)** sont **autorisés**, mais **l’arnaque dans ce cadre-là n’est pas interdite**.\
+  ➤ Vous tradez à vos risques et périls. Le staff **n’interviendra pas** en cas de scam lié au `/bourse`.\
+  ➤ Soyez attentifs, ne faites pas confiance à n’importe qui peu importe leur rang (partenaire, youtubeur ou staff).
 
-L'arnaque à l'HDV est bannie
+**💸 Interdiction formelle :**
 
-## Transactions
+* ❌ La **vente ou l’achat d’items, de monnaie ou de services en jeu contre de l’argent réel** est **strictement interdite**.
+* ❌ La **vente ou l’achat de compte** est également **interdite**.\
+  ➤ En cas de vente détectée, le **staff se réserve le droit de clear totalement le compte concerné** : suppression des items, grades, PB, etc ainsi que le bannissement définitif du compte.
 
-Ce paragraphe concerne l'échange d'item contre des biens extérieurs au jeu.
+⚠️ **Attention : pour qu’une sanction et/ou un remboursement soient possibles**, vous devez **obligatoirement fournir une preuve vidéo complète** de l’arnaque.\
+➤ Aucune action ne sera prise sur la base d’un simple message ou d’un screen.\
+➤ **Le staff ne rembourse rien sans preuve claire.**
 
-* Les échanges de biens & services sur KingFight contre des items sur d'autres serveurs sont bannis définitivement
-* Les échanges de biens & services sur KingFight contre de l'argent sont bannis définitivement
-* Les échanges de biens & services sur KingFight contre des clés magiques sont autorisés.
-
-&#x20;
-
-Le staff se réserve le droit de supprimer tout ce qu'il y a sur votre compte y compris votre grade dans le cas où vous le vendriez.
+🎥 **Conseil :** Un plugin de trade est disponible pour tout vos échanges item vs item (/trade pseudo)

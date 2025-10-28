@@ -4,18 +4,22 @@ description: Règlement relatif aux Avant-Postes et aux Traps
 
 # ⚠️ AP & Traps
 
-## AP
+#### 🏗️ Construction générale
 
-Les AP (avant-postes) correspondent a la première ainsi que la deuxième ligne des claims après la WarZone. Tout les claims qui seront après ne sont pas considérer comme des AP's.
-Tout blocs qui gênent l'utilisation d'une enderpearl ou d'une potion de soin sont formellement interdit dans les AP's.
-Le non-respect de cette règle peut entraîner les conséquences suivantes :
+* Aucune restriction spécifique sur les **blocs, trappes ou systèmes** utilisés pour la construction des AP.\
+  ➤ Le staff gère **directement les interdictions précises** via un plugin.
 
-* Destruction total de l'AP
-* Remboursement du stuff
-* Bannissement
-* Unclaim de son AP
+#### ⚙️ Forme et fluidité du PvP
 
+* L’avant-poste doit **ressembler à un grand trou principal**, permettant un **PvP fluide et dynamique** 🔥\
+  ➤ L’objectif : favoriser les combats, la mobilité et les interactions entre factions.\
+  ➤ Pas de structures qui cassent le rythme du combat ou bloquent la vision des joueurs.\
+  &#x20;    Exemple : Pas de damier ou de pilier qui gênent l'utilisation des enderpearls.
 
-## Traps
+#### 🚫 Optimisation & performance
 
-Toutes formes de TRAPS sont autorisé sur KingFight, cependant il n'est pas possible de faire de TRAP qui empêchent de se heal.
+* ❗ **Un membre du staff se réserve le droit de supprimer tout avant-poste** jugé :
+  * Trop **gourmand en performances (lags FPS)** 💻
+  * Ou présentant des **problèmes de gameplay** évidents (PvP injouable, zones bloquantes, etc.)
+
+Les explosions sont bloqués de la couche x à x afin de permettre aux joueurs de construire des beaux avant-postes.
