@@ -22,4 +22,4 @@ description: Règlement relatif aux Avant-Postes et aux Traps
   * Trop **gourmand en performances (lags FPS)** 💻
   * Ou présentant des **problèmes de gameplay** évidents (PvP injouable, zones bloquantes, etc.)
 
-Les explosions sont bloqués de la couche x à x afin de permettre aux joueurs de construire des beaux avant-postes.
+Les explosions sont bloquées de la couche 67 à 100 afin de permettre aux joueurs de construire des beaux avant-postes.
