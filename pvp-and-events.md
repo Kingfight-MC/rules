@@ -22,9 +22,9 @@ Il est **strictement interdit** de **quitter ou rejoindre une faction** **pendan
 
 #### 💻 Sanction PvP en cas de triche
 
-En cas de bannissement pour cheat ou détection de logiciel non autorisé, une pénalité de 20 % sera appliquée à vos points dans le classement PvP en cours.
+En cas de bannissement pour triche ou détection de logiciel non autorisé, une pénalité de 20 % sera appliquée à vos points dans le classement PvP en cours.
 
-📹 Preuves obligatoires pour les plaintes (crossteam, triche, etc.)
+📹 Preuves obligatoires sous forme de vidéo pour les plaintes (crossteam, triche, etc.)
 
 Toutes les **plaintes liées au cross team ou comportement en événement** doivent être accompagnées d’une **vidéo complète**.
 
