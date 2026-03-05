@@ -15,7 +15,7 @@ Sont donc considérés comme triche les cas suivants :
 * Modification du **debounce time** de votre souris ou utilisation d’un matériel avec un **temps de rebond anormalement bas**
 * Lancement d’un **client "injected"**, c’est-à-dire toute forme de logiciel externe injecté dans Minecraft pour modifier son comportement en cours de jeu
 
-🖱️ Il n’existe **pas de limite officielle de CPS** (clics par seconde), mais **au-delà de 14 CPS**, vous jouez **à vos risques et périls**.\
+🖱️ Il n’existe **pas de limite officielle de CPS** (clics par seconde), mais **au-delà de 16 CPS**, vous jouez **à vos risques et périls**.\
 ➤ Cela peut déclencher un contrôle par le staff. S’il est jugé suspect, des sanctions seront appliquées.
 
 🛑Tous les comportements listés ci-dessus sont considérés comme de la **triche avérée** et seront   **sanctionnés par un bannissement permanent immédiat.**
