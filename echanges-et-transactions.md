@@ -24,5 +24,3 @@ description: >-
 ⚠️ **Attention : pour qu’une sanction et/ou un remboursement soient possibles**, vous devez **obligatoirement fournir une preuve vidéo complète** de l’arnaque.\
 ➤ Aucune action ne sera prise sur la base d’un simple message ou d’un screen.\
 ➤ **Le staff ne rembourse rien sans preuve claire.**
-
-🎥 **Conseil :** Un plugin de trade est disponible pour tout vos échanges item vs item (/trade pseudo)
