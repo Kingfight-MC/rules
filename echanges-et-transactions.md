@@ -8,7 +8,7 @@ description: >-
 # 💸 Commerce & Arnaques
 
 **💰 Echanges :**
-* Le seul moyen de procéder à un échange sécurisé est de passer par le **/trade** ou le **/hdv**, toute autre forme d'échange n'est pas garantie par le server.
+* Le seul moyen de procéder à un échange sécurisé est de passer par l'**/hdv**, toute autre forme d'échange n'est pas garantie par le server.
 
 **❌ Arnaques HDV :**
 
