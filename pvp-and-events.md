@@ -28,5 +28,7 @@ En cas de bannissement pour triche ou détection de logiciel non autorisé, une 
 
 Toutes les **plaintes liées au cross team ou comportement en événement** doivent être accompagnées d’une **vidéo complète**.
 
+Le TPKILL est AUTORISE sur le serveur, attention à vous !
+
 ➤ **Une vidéo de 2 minutes n’est pas suffisante**.\
 Le staff doit pouvoir **voir l’action dans son contexte**, avant, pendant, et après l’incident.
